@@ -117,15 +117,7 @@ public enum Operator {
         return String.valueOf(symbol);
     }
 
-    private static class Range implements Iterable<Double> {
-
-        public final double min;
-        public final double max;
-
-        public Range(double min, double max) {
-            this.min = min;
-            this.max = max;
-        }
+    private record Range(double min, double max) implements Iterable<Double> {
 
         public boolean contains(double d) {
             return d >= min && d <= max;
