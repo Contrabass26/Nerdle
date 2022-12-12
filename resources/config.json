@@ -1,5 +1,20 @@
 {
-  "length": 8,
-  "logLevel": 3,
-  "filterThreshold": 1
+  "configuration": "FRAME",
+  "length": 6,
+  "log_level": 3,
+
+  "options": {
+    "FRAME": {
+      "subset_size": 1
+    },
+    "GENERATE": {
+      "path": "out/data/possibilities.nl"
+    },
+    "READ": {
+      "path": "out/data/possibilities.nl"
+    },
+    "TEST": {
+      "subset_size": 1
+    }
+  }
 }

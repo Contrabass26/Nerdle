@@ -1,6 +1,6 @@
 package main.java.compute;
 
-import main.java.log.Logger;
+import main.java.out.Logger;
 
 import java.util.Arrays;
 

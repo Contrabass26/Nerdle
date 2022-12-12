@@ -1,4 +1,4 @@
-package main.java.log;
+package main.java.out;
 
 import com.contrabass.tools.Printer;
 import main.java.config.Config;

@@ -4,11 +4,11 @@
     <root id="archive" name="Nerdle.jar">
       <element id="module-output" name="Nerdle" />
       <element id="extracted-dir" path="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Java_programs/jackson/jackson-core-2.12.2.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Java_programs/jackson/jackson-annotations-2.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Java_programs/Tools/out/artifacts/Tools_jar/Tools.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Java_programs/Javaluator-v3.0.2/javaluator-3.0.2.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/20.1.0/annotations-20.1.0.jar" path-in-jar="/" />
-      <element id="extracted-dir" path="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Java_programs/Tools/out/artifacts/Tools_jar/Tools.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Java_programs/jackson/jackson-databind-2.12.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Library/CloudStorage/OneDrive-Personal/Java_programs/jackson/jackson-annotations-2.12.2.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

@@ -14,8 +14,4 @@ public class Frame extends JFrame {
         setContentPane(new Panel());
         setVisible(true);
     }
-
-    public static void main(String[] args) {
-        new Frame();
-    }
 }

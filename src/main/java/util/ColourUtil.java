@@ -1,7 +1,7 @@
 package main.java.util;
 
 import main.java.gui.Panel;
-import main.java.log.Logger;
+import main.java.out.Logger;
 
 import java.awt.*;
 import java.lang.reflect.Field;

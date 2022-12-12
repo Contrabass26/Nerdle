@@ -2,7 +2,7 @@ package main.java.gui;
 
 import main.java.compute.Computer;
 import main.java.compute.Guess;
-import main.java.log.Logger;
+import main.java.out.Logger;
 import main.java.util.ColourUtil;
 import main.java.util.MathUtil;
 
